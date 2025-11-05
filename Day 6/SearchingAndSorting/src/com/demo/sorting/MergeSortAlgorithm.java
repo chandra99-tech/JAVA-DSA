@@ -35,7 +35,7 @@ public class MergeSortAlgorithm {
 		}
 		//copy remaining part of leftarray into arr
 		while(i<n1) {
-			arr[k]=leftarray[i];	
+			arr[k]=leftarray[i];
 			i++;
 			k++;
 		}
